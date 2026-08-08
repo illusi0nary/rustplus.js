@@ -69,7 +69,7 @@ You will need to provide the following details to be able to connect:
 
 - Server IP (or hostname)
 - App Port (`app.port` in `server.cfg`)
-- Player Id (Your Steam ID)
+- Player Id (Your Steam64 ID)
 - Player Token ([Token from Server Pairing](#pairing))
 
 ```js
